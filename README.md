@@ -7,7 +7,7 @@ This Repositry showcases hands-on experience with AWS
 -  Created and managed IAM Users and User Groups.
 -  Tested policies by simulating EC2 instance actions like StopInstances.
 -  Set up a custom AWS account alias for simplified login.
-- 🏷 Utilized tags (e.g., Env: Production, Env: Development) for access control in IAM policies.
+-  Utilized tags (e.g., Env: Production, Env: Development) for access control in IAM policies.
 
 ## AWS Services Used
 
